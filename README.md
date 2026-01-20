@@ -167,6 +167,7 @@ The CLI searches for skills in these locations within a repository:
 - `./skills/`
 - `.factory/skills/`
 - `.windsurf/skills/`
+- `.trae/skills/`
 <!-- skill-discovery:end -->
 
 If no skills are found in standard locations, a recursive search is performed.
@@ -227,6 +228,7 @@ Telemetry is also automatically disabled in CI environments.
 - [GitHub Copilot Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
 - [Roo Code Skills Documentation](https://docs.roocode.com/features/skills)
 - [Clawdbot Skills Documentation](https://docs.clawd.bot/tools/skills)
+- [Trae Skills Documentation](https://docs.trae.ai/ide/skills)
 
 ## License
 
